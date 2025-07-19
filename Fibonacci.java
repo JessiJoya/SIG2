@@ -7,6 +7,6 @@ public class Fibonacci{
 		}
 	}
 	public static void main (String[] args){
-        	System.out.println("Fibonacci es: "+Fibo(3));
+        	System.out.println("Fibonacci es: "+Fibo(5));
 	}
  }
